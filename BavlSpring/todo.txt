@@ -1,0 +1,50 @@
+client
+    shop
+        -afficher les produits
+            -type de produit
+                -produit
+        -mettrePanierProduit
+        - + et - panier
+        -commmander
+            -checkstock
+            -payer
+    connexion
+        -se connecter
+        -se deconnecter
+        -creer le compte
+        -delete le compte
+
+
+admin 
+    crud
+        -modifier un compte
+            -supprimer un compte
+            -ajouter un produit
+            -modifier un produit
+            -supprimer un produit
+            -ajouter un type de produit
+            -modifier un type de produit
+            -supprimer un type de produit
+        -ajouter un stock
+            -modifier un stock
+            -supprimer un stock
+        -ajouter une commande
+            -modifier une commande
+            -supprimer une commande
+
+    stats
+        facture
+        inventaire des produits
+        les ventes par produit
+        détails des commandes clients
+        l'analyse des coûts de production
+        les statistiques de ventes
+        performance des produits
+        les tendances des commandes
+
+
+continue avec :
+Le controller pour le panier
+La validation plus détaillée des paiements
+La gestion des stocks lors de la commande
+Les notifications de paiement ?
